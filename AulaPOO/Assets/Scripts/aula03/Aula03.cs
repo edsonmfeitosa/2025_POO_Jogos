@@ -17,6 +17,8 @@ public class Aula03 : MonoBehaviour
 
         Debug.Log("Total de magias criadas: " + 
             Magia.getContarMagias());
+        //float tempo = Time.deltaTime;
+        //Application.targetFrameRate = 60;
     }
 
     // Update is called once per frame
